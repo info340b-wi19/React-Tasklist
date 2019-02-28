@@ -1,1 +1,1 @@
-Simple task list React app loosely based off of problem set 5 problem-b. Not meant to be perfect, moreso meant to showcase some of the most important parts of React.
+Simple task list React app loosely based off of problem set 5 problem-b. Not meant to be perfect, more so meant to showcase some of the most important parts of React.
